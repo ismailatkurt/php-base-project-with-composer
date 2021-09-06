@@ -1,0 +1,1 @@
+{"version":1,"defects":{"App\\Unittests\\Models\\BaseTest::jsonSerialize_test":4,"App\\Unittests\\Models\\BaseTest::foo_field_can_be_updated":4},"times":{"App\\Unittests\\Models\\BaseTest::jsonSerialize_test":0.038,"App\\Unittests\\Models\\BaseTest::foo_field_can_be_updated":0.018}}
